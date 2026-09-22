@@ -1,0 +1,6 @@
+@linkpagosapi_HostAddress = http://localhost:5159
+
+GET {{linkpagosapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
