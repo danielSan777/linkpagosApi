@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("7456fa43-4a35-42a5-90d1-96c7b633ebfa")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("linkpagosapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa6ebd47124367147d621e54927a14359531c31d")]
 [assembly: System.Reflection.AssemblyProductAttribute("linkpagosapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("linkpagosapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

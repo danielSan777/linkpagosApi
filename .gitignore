@@ -1,7 +1,5 @@
 # Visual Studio
 .vs/
-*.user
-*.suo
 
 # .NET
 bin/
@@ -10,5 +8,12 @@ obj/
 # Visual Studio Code
 .vscode/
 
+# Archivos temporales
+*.user
+*.suo
+
 # Logs
 *.log
+
+# Publicaciones
+publish/
